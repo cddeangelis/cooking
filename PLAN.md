@@ -324,17 +324,17 @@ No paid Apple Developer Program membership required for personal testing.
 
 ---
 
-## Open Questions / Decisions Needed
+## Decisions Made
 
-1. **Offline-First vs Cloud-First**: Should recipes be stored locally with optional cloud sync, or cloud-primary? (Recommendation: local-first with iCloud sync)
+1. **Offline-First vs Cloud-First**: Local-first with iCloud sync ✓
 
-2. **iPad Support**: Should we design for iPad as well, or iPhone-only initially? (Recommendation: iPhone-first, iPad layout can come later)
+2. **iPad Support**: iPhone-only initially ✓
 
-3. **Widget Support**: Include home screen widgets for quick recipe access or meal plan view? (Recommendation: add in later phase)
+3. **Widget Support**: Add in later phase
 
-4. **Watch App**: Any interest in a watchOS companion for timers? (Recommendation: future enhancement)
+4. **Watch App**: Yes - watchOS companion for timers ✓
 
-5. **Recipe Sources**: Do you have existing recipes to import (JSON, spreadsheet, etc.)? This affects initial data migration strategy.
+5. **Recipe Sources**: No initial import needed - recipes will be added through the app ✓
 
 ---
 
